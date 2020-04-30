@@ -4,8 +4,7 @@ This is nmap based port scanner. Basically you can use it for hack the box machi
 If you aren't installed nmap just type===>
       bash install.sh
       
-
-After installing type ==> bash scan.sh to run the tools.
+To run the tool type ==> bash scan.sh
 
 
 Thanks a lot:)
