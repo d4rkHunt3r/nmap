@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 read -p "Put the ip address here: " IP
 
